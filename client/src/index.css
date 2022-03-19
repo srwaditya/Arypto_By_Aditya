@@ -43,12 +43,12 @@ body {
 }
 
 .blue-glassmorphism {
-  background: rgba(36, 48, 87, 0.4);
+  background: rgba(15, 49, 58, 0.4);
   border-radius: 16px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 30px rgba(34, 32, 32, 0.2);
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
-  border: 1px solid rgba(2, 2, 2, 0.3);
+  border: 1px solid rgba(15, 15, 15, 0.3);
 }
 
 /* white glassmorphism */
@@ -61,15 +61,15 @@ body {
 }
 
 .eth-card {
-  background-color:#a099ff;
+  background-color:#150e80;
   background-image: 
-    radial-gradient(at 83% 67%, rgb(134, 235, 139) 0, transparent 58%), 
+    radial-gradient(at 83% 67%, rgb(51, 133, 14) 0, transparent 58%), 
     radial-gradient(at 67% 20%, rgb(209, 63, 119) 0, transparent 59%), 
-    radial-gradient(at 88% 35%, rgb(55, 104, 219) 0, transparent 50%), 
-    radial-gradient(at 31% 91%, rgb(228, 91, 67) 0, transparent 52%), 
-    radial-gradient(at 27% 71%, hsla(336,91%,65%,1) 0, transparent 49%), 
-    radial-gradient(at 74% 89%, hsla(30,98%,65%,1) 0, transparent 51%), 
-    radial-gradient(at 53% 75%, rgb(184, 221, 217) 0, transparent 45%);
+    radial-gradient(at 88% 35%, rgb(44, 11, 236) 0, transparent 50%), 
+    radial-gradient(at 31% 91%, rgb(245, 84, 56) 0, transparent 52%), 
+    radial-gradient(at 27% 71%, rgb(235, 57, 57) 0, transparent 49%), 
+    radial-gradient(at 74% 89%, rgb(204, 122, 39) 0, transparent 51%), 
+    radial-gradient(at 53% 75%, rgb(84, 97, 218) 0, transparent 45%);
 }
 
 .text-gradient {
